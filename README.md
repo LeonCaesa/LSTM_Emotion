@@ -7,4 +7,4 @@ In my disseration, I did the emotion classification by myself
 
 
 
-Current LSTM version NN is based upon my the data posed by [123](http://kt.ijs.si/data/Twitter_sentiment_DJIA30/)
+Current LSTM version NN is based upon the data posed by [Gabriele Ranco](http://kt.ijs.si/data/Twitter_sentiment_DJIA30/) in their paper (The Effects of Twitter Sentiment on Stock Price Returns)[https://arxiv.org/pdf/1506.02431.pdf]

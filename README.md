@@ -3,7 +3,7 @@ Use LSTM NN to extract alpha information from stocks
 
 This is my undergraduate dissertation, currently, I am re-organizing the codes
 
-In my disseration, I did the emotion classification by myself
+In my disseration, I did the [emotion classification](https://github.com/LeonCaesa/Bays_Learning_Emotion/blob/master/Baysien_Learning.py) by myself
 
 
 
